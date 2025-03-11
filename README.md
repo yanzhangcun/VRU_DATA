@@ -7,7 +7,7 @@ We opened a new dataset about vulnerable road users in unban street.
 | <div align=center><img src="traj_JH.png" width = 800 >  </div> | <div align=center><img src="traj_LC.png" width = 800 >  </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |             a). Jianhe-Xianxia (JH) intersection             |          b). Longchang-Changyang (LC) intersection           |
-| <div align=center><img src="traj_NW.png" width = 800 >  </div> | <div align=center><img src="traj_MY.png" width = 800 >  </div> |
+| <div align=center><img src="traj_nw.png" width = 800 >  </div> | <div align=center><img src="traj_MY.png" width = 800 >  </div> |
 |             c). Ningwu-Hejian (NW) intersection              |            d). Moyu-Changjidong (MY) intersection            |
 
 
@@ -55,11 +55,11 @@ We opened a new dataset about vulnerable road users in unban street.
 
 - Other items have the same meaning as the items with the same name in the <kbd>Veh_smoothed_tracks.csv</kbd> file.
 
-| <div align=center><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\changjidong-moyu.png" width = 800>  </div> | <div align=center><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\CH3-zhubiao.jpg" width = 800>  </div> |
+| <div align=center><img src="MY.png" width = 800>  </div> | <div align=center><img src="LC.jpg" width = 800>  </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |            a). Moyu-Changjidong (MY) intersection            |          b). Longchang-Changyang (LC) intersection           |
-| <div align=center><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\Jianhe-xianxia road.png" width = 800>  </div> | <div align=center><br/><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\wn.png" width = 800>  </div> |
-|             c). Jianhe-Xianxia (JH) intersection             |             d). Ningwu-Hejian (NH) intersection              |
+| <div align=center><img src="JH.png" width = 800>  </div> | <div align=center><br/><img src="NW.png" width = 800>  </div> |
+|             c). Jianhe-Xianxia (JH) intersection             |             d). Ningwu-Hejian (NW) intersection              |
 
   Fig.2.  Pixel Coordinates and World Transformation System
 
