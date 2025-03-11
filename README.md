@@ -35,7 +35,7 @@ We opened a new dataset about vulnerable road users in unban street. Download li
 - Angle: The angle between the moving direction of the center of the vehicle bounding box and the positive x-axis	
 - video_id: The videos are numbered and stored in 10-minute segments, hence we assign numbers to each video.
 
-  | <div align=center><img src="MY.png" width = 800>  </div> | <div align=center><img src="LC.jpg" width = 800>  </div> |
+| <div align=center><img src="MY.png" width = 800>  </div> | <div align=center><img src="LC.jpg" width = 800>  </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |            a). Moyu-Changjidong (MY) intersection            |          b). Longchang-Changyang (LC) intersection           |
 | <div align=center><img src="JH.png" width = 800>  </div> | <div align=center><br/><img src="NW.png" width = 800>  </div> |
