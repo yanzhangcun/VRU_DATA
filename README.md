@@ -4,10 +4,10 @@ We opened a new dataset about vulnerable road users in unban street.
 
 # Format of the VUR_Data Trajectory dataset
 
-| <div align=center><img src="traj_LC.png" width = 800 >  </div> | <div align=center><img src="traj_LC.png" width = 800 >  </div> |
+| <div align=center><img src="traj_JH.png" width = 800 >  </div> | <div align=center><img src="traj_LC.png" width = 800 >  </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |             a). Jianhe-Xianxia (JH) intersection             |          b). Longchang-Changyang (LC) intersection           |
-| <div align=center><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\image_NW.png" width = 800 >  </div> | <div align=center><img src="D:\dataset\Intersection\Lanelet2\intersection_trajectory\Intersection\Figure\image_MY.png" width = 800 >  </div> |
+| <div align=center><img src="traj_NW.png" width = 800 >  </div> | <div align=center><img src="traj_MY.png" width = 800 >  </div> |
 |             c). Ningwu-Hejian (NW) intersection              |            d). Moyu-Changjidong (MY) intersection            |
 
 
