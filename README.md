@@ -71,9 +71,9 @@ We opened a new dataset about vulnerable road users in unban street.
 
 In addition to the record file, we also provide a [high-definition map](Data/mapfile-Tianjin.osm#sdd) of the intersection in [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) format\(see Fig.2\), the origin of the map coincides with the origin of the ground coordinate system.  
 
-| <div align=center><img src="JH.PNG" width = 800>  </div> | <div align=center><img src="LC.PNG" width = 800> </div> |
+| <div align=center><img src="LC_OSM.PNG" width = 800>  </div> | <div align=center><img src="LC_OSM2.PNG" width = 800> </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                     a). JH intersection                      |                     b). LC intersection                      |
+|                     a). LC intersection                      |                     b). LC intersection  in osm                     |
 
 
                                                     Fig.2 Semantic HD-map in lanelet2 format
