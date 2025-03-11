@@ -35,6 +35,15 @@ We opened a new dataset about vulnerable road users in unban street. Download li
 - Angle: The angle between the moving direction of the center of the vehicle bounding box and the positive x-axis	
 - video_id: The videos are numbered and stored in 10-minute segments, hence we assign numbers to each video.
 
+  | <div align=center><img src="MY.png" width = 800>  </div> | <div align=center><img src="LC.jpg" width = 800>  </div> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|            a). Moyu-Changjidong (MY) intersection            |          b). Longchang-Changyang (LC) intersection           |
+| <div align=center><img src="JH.png" width = 800>  </div> | <div align=center><br/><img src="NW.png" width = 800>  </div> |
+|             c). Jianhe-Xianxia (JH) intersection             |             d). Ningwu-Hejian (NW) intersection              |
+
+  Fig.2.  Pixel Coordinates and World Transformation System
+
+
 2. **Signal Table:**  <kbd>Signal_time_data.csv</kbd>  
 
   The signal timing plan is recorded while capturing the operational video of the intersection, simultaneously documenting the traffic signal operation scheme.
@@ -52,17 +61,6 @@ We opened a new dataset about vulnerable road users in unban street. Download li
 - all_red_time:  The moment the all red light starts.
 - red_time:  The moment the red light starts.
 - phase_length: signal phase duration(s).
-
-- Other items have the same meaning as the items with the same name in the <kbd>Veh_smoothed_tracks.csv</kbd> file.
-
-| <div align=center><img src="MY.png" width = 800>  </div> | <div align=center><img src="LC.jpg" width = 800>  </div> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-|            a). Moyu-Changjidong (MY) intersection            |          b). Longchang-Changyang (LC) intersection           |
-| <div align=center><img src="JH.png" width = 800>  </div> | <div align=center><br/><img src="NW.png" width = 800>  </div> |
-|             c). Jianhe-Xianxia (JH) intersection             |             d). Ningwu-Hejian (NW) intersection              |
-
-  Fig.2.  Pixel Coordinates and World Transformation System
-
 
 
 3.  **Map** 
