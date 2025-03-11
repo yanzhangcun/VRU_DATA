@@ -73,7 +73,7 @@ In addition to the record file, we also provide a [high-definition map](Data/map
 
 | <div align=center><img src="LC_OSM.png" width = 800>  </div> | <div align=center><img src="LC_OSM2.png" width = 800> </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                     a). LC intersection                      |                     b). LC intersection  in osm                     |
+|                     a). LC intersection  in QGIS             |                     b). LC intersection  in osm              |
 
 
                                                     Fig.2 Semantic HD-map in lanelet2 format
