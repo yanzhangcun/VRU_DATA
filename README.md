@@ -69,7 +69,7 @@ We opened a new dataset about vulnerable road users in unban street. Download li
 
 ***
 
-In addition to the record file, we also provide a [high-definition map](Data/mapfile-Tianjin.osm#sdd) of the intersection in [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) format\(see Fig.2\), the origin of the map coincides with the origin of the ground coordinate system.  In autonomous driving scenarios, converting OSM maps to the Lanelet2 format can be done by referring to the [SinD](https://github.com/SOTIF-AVLab/SinD) case.
+In addition to the record file, we also provide a [high-definition map](Data/mapfile-Tianjin.osm#sdd) of the intersection in [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) format\(see Fig.2\), the origin of the map coincides with the origin of the ground coordinate system.  In autonomous driving scenarios, converting OSM maps to the Lanelet2 format can be done by referring to the [SinD](https://github.com/SOTIF-AVLab/SinD) case and [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2).
 
 | <div align=center><img src="LC_OSM.png" width = 800>  </div> | <div align=center><img src="LC_OSM2.png" width = 800> </div> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
