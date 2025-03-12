@@ -8,10 +8,10 @@ We opened a new dataset about vulnerable road users in unban street. Download li
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |             a). Jianhe-Xianxia (JH) intersection             |          b). Longchang-Changyang (LC) intersection           |
 | <div align=center><img src="traj_nw.png" width = 800 >  </div> | <div align=center><img src="traj_MY.png" width = 800 >  </div> |
-|             c). Ningwu-Hejian (NW) intersection              |            d). Moyu-Changjidong (MY) intersection            |
+|             c). Ningwu-Hejian (NW) intersection              |          d). Moyu-Changjidong (MY) intersection              |
 
 
-                                              Fig.1 
+                                              Fig.1  Pixel coordinate projection of trajectory points
 
 1. **Trajectory Table:**  <kbd>JH_total.csv/LC_total.csv/MY_total.csv/NW_total.csv</kbd>  
 
